@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cave of the Many",
+  "universe": "SUP · The Cave of the Many (ERĒMIA)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Cave of the Many:SUP:8b921b⟧",
+  "carbon": "the-cave-of-the-many.carbon.tiff (TIFF)",
+  "silicon": "the-cave-of-the-many.silicon.png (PNG)",
+  "seal_sha256": "165eacaf54a484487b74da65711c5ccd93da48a7276c369a57d1999f7ef44c56",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

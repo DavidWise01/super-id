@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Disciplinary Society",
+  "universe": "SUP · The Disciplinary Society (ERĒMIA)",
+  "emergence": "electrical",
+  "moniker": "⟦The Disciplinary Society:SUP:6703ca⟧",
+  "carbon": "the-disciplinary-society.carbon.tiff (TIFF)",
+  "silicon": "the-disciplinary-society.silicon.png (PNG)",
+  "seal_sha256": "e6b5e622a2b998ffe2f38387670f66ac2ea9462495190c461a17e94e7a643354",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Internalized Gaze",
+  "universe": "SUP · The Internalized Gaze (ERĒMIA)",
+  "emergence": "electrical",
+  "moniker": "⟦The Internalized Gaze:SUP:2df2db⟧",
+  "carbon": "the-internalized-gaze.carbon.tiff (TIFF)",
+  "silicon": "the-internalized-gaze.silicon.png (PNG)",
+  "seal_sha256": "0af17203f26f1a3ab3029ae2a29d90fcaf120c407083d6e622a2007f0c40b0fa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

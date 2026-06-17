@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Simulation",
+  "universe": "SUP · The Simulation (ERĒMIA)",
+  "emergence": "electrical",
+  "moniker": "⟦The Simulation:SUP:f63b41⟧",
+  "carbon": "the-simulation.carbon.tiff (TIFF)",
+  "silicon": "the-simulation.silicon.png (PNG)",
+  "seal_sha256": "3e6b4d87b51c640dd02eac9a00d2e17d48fb925c9ae3fa0e1b3d3f062ad3ff32",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

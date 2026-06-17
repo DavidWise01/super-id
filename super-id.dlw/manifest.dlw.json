@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Super-Id",
+  "universe": "SUP · The Super-Id (ERĒMIA)",
+  "emergence": "",
+  "moniker": "⟦The Super-Id:SUP:57cfc3⟧",
+  "carbon": "super-id.carbon.tiff (TIFF)",
+  "silicon": "super-id.silicon.png (PNG)",
+  "seal_sha256": "4815144df37576bb58dbbdc2ce634652d0baa4f44e2b40936e7766135cd5a92b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
